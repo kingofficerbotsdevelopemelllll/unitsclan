@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["https://dsc.gg/zepsrealm"];
+const statusMessages = ["Protecting Units Beware"];
 
 
 let currentIndex = 0;
